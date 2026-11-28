@@ -1,0 +1,1 @@
+function e(e,t){try{window.umami?.track(e,t)}catch{}}export{e as t};

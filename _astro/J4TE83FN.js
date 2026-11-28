@@ -1,0 +1,1 @@
+import{t as e}from"./DygEbaNj.js";e(async()=>{let{onLCP:e,onCLS:t,onINP:n}=await import(`./CMUBx256.js`);return{onLCP:e,onCLS:t,onINP:n}},[]).then(({onLCP:e,onCLS:t,onINP:n})=>{let r=e=>window.umami?.track(`web_vital`,{name:e.name,value:Math.round(e.name===`CLS`?e.value*1e3:e.value)});e(r),t(r),n(r)});

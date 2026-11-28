@@ -1,0 +1,1 @@
+import{t as e}from"./DGEPyyJW.js";function t(){return e(`aside`,{class:`slot inline`,"data-ad-position":`inline`,"aria-label":`Publicidad`,children:[e(`span`,{class:`slot-label`,"aria-hidden":`true`,children:`Publicidad`}),e(`div`,{class:`slot-box`,children:e(`div`,{class:`ad-ph`,children:e(`div`,{children:[e(`b`,{children:`Anuncio`}),e(`br`,{}),`300 × 250`]})})})]})}export{t};
